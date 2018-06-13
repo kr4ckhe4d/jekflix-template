@@ -1,24 +1,24 @@
 # Site Settings
-title: Jekflix | A theme for Jekyll
-email: youremail@xyz.com
+title: Nipuna H Herath
+email: hash.crackhead@gmail.com
 description: Some text about your blog.
-baseurl: "/jekflix-template" # the subpath of your site, e.g. /blog
-url: "https://www.rossener.com" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: Jekflix
+username: kr4ckhe4d
 user_description: Some text about you.
 disqus_username: disqus_username
 
 # Social Media
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
+github_username: kr4ckhe4d
+facebook_username: kr4ckhe4d
+twitter_username: kr4ckhe4d
+instagram_username: kr4ckhe4d
 linkedin_username: linkedin_username
-medium_username: medium_username
+medium_username: kr4ckhe4d
 
 # Build settings
 markdown: kramdown
